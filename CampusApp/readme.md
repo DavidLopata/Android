@@ -1,4 +1,4 @@
-This is my first ever Android aplication,it is a Campus Navigation app meant for 
+This is my first ever Android application,it is a Campus Navigation app meant for 
 students of the Ss. Cyril and Methodius University in Skopje,where thay can 
 easily navigate their respected campuses.
 
